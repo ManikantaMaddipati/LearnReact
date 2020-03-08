@@ -1,0 +1,14 @@
+
+1.Virtual DOM:
+
+DOM
+  \
+Virtal DOM
+  \
+VIEW
+ \
+Model
+
+2.WebComponents: HTML elements is treated like variable. Code Can be easily managed.
+
+

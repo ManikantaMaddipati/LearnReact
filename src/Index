@@ -1,0 +1,17 @@
+(Basic)
+1.Component : Reusable
+2.JSX : Rapper around Javascript (HTML syntax)
+3.Prop : Pass data around application
+4.Styling component.
+5.Event handling
+6.LifeCycle
+7.HTTP(Get API)
+8.Forms.
+
+
+(Advance)
+1.Reusable react code.
+2.Improve Performance
+3.Context API.(To manage global State)
+4.Hooks API.
+5.RedEx
