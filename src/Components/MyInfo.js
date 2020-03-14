@@ -14,6 +14,11 @@ function MyInfo(){
           <MainContent/>
           //this is JSX : HTML + JS (this from jsx to js we need att {} example : {lastname + fistname} )
           <h1> hello {lastname + fistname} !</h1>
+            //add inline styling
+            //{}-> JSX -> JAVASCRIPT and {object}
+            //note no more '-'  ex : backgroud-color instead backgroundColor.
+            <h2 style={{color:"#FF8C00"}}> hello </h2>
+            <h2> </h2>
           <Footer/>
         </div>
     )
