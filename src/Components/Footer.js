@@ -4,7 +4,7 @@ function Footer() {
     //return actual html
     return  <div>
         <h1>Footer</h1>
-    </div>
+         </div>
 }
 
 export default Footer
